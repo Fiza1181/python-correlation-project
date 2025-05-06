@@ -27,7 +27,6 @@ Capstone Python project analyzing relationships between movie-related variables 
 ## 📁 Files Included
 
 - Python Correlation.ipynb – Jupyter Notebook with full code and output
-- Python Correlation.html – Exported HTML version of the notebook
 
 ---
 
